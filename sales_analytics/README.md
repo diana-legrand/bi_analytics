@@ -7,6 +7,7 @@ In this project, I have created a dynamic and insightful sales analytics report 
 
 The project is available via [this link](https://app.powerbi.com/view?r=eyJrIjoiMGU3MDc3Y2YtM2U4Ni00YTYzLWFlODUtMjM5OGY4NmFkOWUyIiwidCI6IjFjZDhlNDFkLTEyYTctNDkzYi1iOTRhLTNkMWZkOWY1MDA5OSIsImMiOjEwfQ%3D%3D).
 
+![Preview](https://github.com/diana-legrand/bi_analytics/blob/main/sales_analytics/sales_analytics_page-0001.jpg)
 
 
 ## Project Outcome
